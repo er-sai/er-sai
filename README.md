@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @er-sai
 - 👀 I’m interested in Data Science/Analytics/Machine Learning/AI
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Instagram - er.sai/LinkedIn - Saiprasad mule
 
 <!---
